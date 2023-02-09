@@ -9,7 +9,7 @@
      }
  }
 ```
-
+<a href="https://app.daily.dev/juadariasmar"><img src="https://api.daily.dev/devcards/9d5f73487ae44ea18342848fd28371cc.png?r=oxz" width="400" alt="Juan  Arias's Dev Card"/></a>
 <h3>
   🚀 Principal Stack
 </h3> 
