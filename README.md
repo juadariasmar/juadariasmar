@@ -45,12 +45,11 @@
 
 ### 🌱 I'm currently learning...
 
-- Future FullStack JS Developer
-- GraphQL / Heroku / Docker 
-- Advance React JS
+- NextJs 
+- AWS (AWS Certified Cloud Practitioner)
 - Azure
 
-### 🔜 <a href="https://juanarias.info" target="_blank"> juanarias.info</a>
+### 🔜 <a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>
 
 ###  <a href="https://www.instagram.com/juan.arias14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanarias" height="30" width="40" /></a>  <a href="https://www.instagram.com/juan.arias14/" target="_blank"> juan.arias14</a>
 
