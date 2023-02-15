@@ -5,7 +5,6 @@
      { 
       "Resume"   : "https://linktr.ee/juanarias.site",
       "Linkedin" : "https://www.linkedin.com/in/juan-arias14/", 
-      "IG"       : "https://www.instagram.com/juan.arias14/"
      }
  }
 ```
@@ -50,7 +49,5 @@
 - Azure
 
 ### 🔜 <a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>
-
-###  <a href="https://www.instagram.com/juan.arias14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanarias" height="30" width="40" /></a>  <a href="https://www.instagram.com/juan.arias14/" target="_blank"> juan.arias14</a>
 
 ### 📱<a href="https://wa.me/573013643804" target="_blank"> wa.me</a>
