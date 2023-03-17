@@ -3,13 +3,11 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Resume"   : "https://linktr.ee/juanarias.site",
+      "Resume"   : "<a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>",
       "Linkedin" : "https://www.linkedin.com/in/juan-arias14/", 
      }
  }
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=juadariasmar&theme=radical&border_radius=3)](https://git.io/streak-stats)
-
 <h3>
   🚀 Principal Stack
 </h3> 
@@ -31,8 +29,8 @@
 - AWS (AWS Certified Cloud Practitioner)
 - Azure
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=juadariasmar&theme=radical&border_radius=3)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juadariasmar&show_icons=true&theme=radical)
+
 <a href="https://app.daily.dev/juadariasmar"><img src="https://api.daily.dev/devcards/9d5f73487ae44ea18342848fd28371cc.png?r=oxz" width="400" alt="Juan  Arias's Dev Card"/></a>
-
-### 🔜 <a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>
-
-### 📱<a href="https://wa.me/573013643804" target="_blank"> wa.me</a>
