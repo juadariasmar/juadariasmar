@@ -3,8 +3,8 @@
    “role” : “Frontend Dev | MERN Stack”,
    “data” : 
      { 
-      "Resume"   : "<a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>",
-      "Linkedin" : "https://www.linkedin.com/in/juan-arias14/", 
+      "Resume"   : "linktr.ee/juanarias.site",
+      "Linkedin" : "https://www.linkedin.com/in/juan-arias14/" 
      }
  }
 ```
