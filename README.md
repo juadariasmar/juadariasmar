@@ -8,7 +8,8 @@
      }
  }
 ```
-<a href="https://app.daily.dev/juadariasmar"><img src="https://api.daily.dev/devcards/9d5f73487ae44ea18342848fd28371cc.png?r=oxz" width="400" alt="Juan  Arias's Dev Card"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=juadariasmar&theme=radical&border_radius=3)](https://git.io/streak-stats)
+
 <h3>
   🚀 Principal Stack
 </h3> 
@@ -17,24 +18,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
-  
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-<h4>Frontend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</p>
-<h4>Backend Development</h4>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
@@ -47,6 +30,8 @@
 - NextJs 
 - AWS (AWS Certified Cloud Practitioner)
 - Azure
+
+<a href="https://app.daily.dev/juadariasmar"><img src="https://api.daily.dev/devcards/9d5f73487ae44ea18342848fd28371cc.png?r=oxz" width="400" alt="Juan  Arias's Dev Card"/></a>
 
 ### 🔜 <a href="https://linktr.ee/juanarias.site" target="_blank">linktr.ee/juanarias.site</a>
 
