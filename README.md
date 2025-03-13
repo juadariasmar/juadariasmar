@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **contacto@juanarias.site**
+- 📫 How to reach me **juadariasmara14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
